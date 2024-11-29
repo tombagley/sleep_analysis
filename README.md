@@ -17,12 +17,12 @@ Sleep plays a crucial role in our overall health and well-being, yet many indivi
 **Nurses, Salespeople, and Teachers Likely to Have Sleeping Disorders**
 * Question:Which professions are most likely to have sleeping disorders?
 * Findings: Nurses, salespeople, and teachers are identified as the professions most likely to have sleeping disorders.
-![Project](figures/fig1.png)
+![Project](figures/Fig1.png)
 
 **Stress Levels and Sleep Duration Among All Professions**
 * Question: Which profession has the highest stress levels and how does that relate to sleep duration?
 * Findings: Sales representatives and salespeople have the highest stress levels and the lowest sleep duration.
-![Project](figures/fig11.png)
+![Project](figures/Fig11.png)
 
 **Relationship between age and sleep**
 * Question: What, if any, is the correlation between sleep and age?
